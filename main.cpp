@@ -4,7 +4,7 @@
 #include "DHT.h"
 
 // Ubidots parameters
-const char *UBIDOTS_TOKEN = "BBUS-Fx8HeWhDegpMSlOzUT61NT80aMk639";  // Ubidots token for authentication
+const char *UBIDOTS_TOKEN = "";  // Ubidots token for authentication
 const char *WIFI_SSID = "Wokwi-GUEST";    // WiFi SSID
 const char *WIFI_PASS = "";     // WiFi password
 const char *DEVICE_LABEL = "esp32dht22b";   // Device label in Ubidots
